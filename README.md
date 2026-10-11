@@ -158,7 +158,7 @@ If you use these materials, please cite the associated article.
 `[Full citation to be inserted after publication]`
 
 **Repository:**  
-`[Repository URL]`
+`https://github.com/LEDSUASLP/IMO.git`
 
 Laboratorio de Estructuras y Dinámicas Sociales (LEDS)  
 Universidad Autónoma de San Luis Potosí
