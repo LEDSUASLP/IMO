@@ -1,0 +1,88 @@
+query_id,query_type,term,facet,value,count,selected,filter_value,source_file,retrieved_at,sha256
+HNDM-base,base,,pais,México,8119398,1,pais:%22M%C3%A9xico%22,HNDM-base.html,2026-10-06,77cc4262a0ce577939830a8acf084eb8437d9a12782e0798295e7bd417e03662
+HNDM-base,base,,pais,Chile,1853,0,pais:%22Chile%22,HNDM-base.html,2026-10-06,77cc4262a0ce577939830a8acf084eb8437d9a12782e0798295e7bd417e03662
+HNDM-base,base,,pais,Colombia,384,0,pais:%22Colombia%22,HNDM-base.html,2026-10-06,77cc4262a0ce577939830a8acf084eb8437d9a12782e0798295e7bd417e03662
+HNDM-base,base,,pais,Cuba,670,0,pais:%22Cuba%22,HNDM-base.html,2026-10-06,77cc4262a0ce577939830a8acf084eb8437d9a12782e0798295e7bd417e03662
+HNDM-base,base,,pais,España,6657,0,pais:%22Espa%C3%B1a%22,HNDM-base.html,2026-10-06,77cc4262a0ce577939830a8acf084eb8437d9a12782e0798295e7bd417e03662
+HNDM-base,base,,pais,Estados Unidos,794,0,pais:%22Estados+Unidos%22,HNDM-base.html,2026-10-06,77cc4262a0ce577939830a8acf084eb8437d9a12782e0798295e7bd417e03662
+HNDM-base,base,,pais,Inglaterra,1581,0,pais:%22Inglaterra%22,HNDM-base.html,2026-10-06,77cc4262a0ce577939830a8acf084eb8437d9a12782e0798295e7bd417e03662
+HNDM-ciencia,term,ciencia,pais,México,369749,1,pais:%22M%C3%A9xico%22,HNDM-ciencia.html,2026-10-06,e19244dc1ea39dacd77718475a124d74158d82c4961a763afd67afca07690f48
+HNDM-ciencia,term,ciencia,pais,Chile,78,0,pais:%22Chile%22,HNDM-ciencia.html,2026-10-06,e19244dc1ea39dacd77718475a124d74158d82c4961a763afd67afca07690f48
+HNDM-ciencia,term,ciencia,pais,Colombia,7,0,pais:%22Colombia%22,HNDM-ciencia.html,2026-10-06,e19244dc1ea39dacd77718475a124d74158d82c4961a763afd67afca07690f48
+HNDM-ciencia,term,ciencia,pais,Cuba,52,0,pais:%22Cuba%22,HNDM-ciencia.html,2026-10-06,e19244dc1ea39dacd77718475a124d74158d82c4961a763afd67afca07690f48
+HNDM-ciencia,term,ciencia,pais,España,389,0,pais:%22Espa%C3%B1a%22,HNDM-ciencia.html,2026-10-06,e19244dc1ea39dacd77718475a124d74158d82c4961a763afd67afca07690f48
+HNDM-ciencia,term,ciencia,pais,Estados Unidos,51,0,pais:%22Estados+Unidos%22,HNDM-ciencia.html,2026-10-06,e19244dc1ea39dacd77718475a124d74158d82c4961a763afd67afca07690f48
+HNDM-ciencia,term,ciencia,pais,Inglaterra,119,0,pais:%22Inglaterra%22,HNDM-ciencia.html,2026-10-06,e19244dc1ea39dacd77718475a124d74158d82c4961a763afd67afca07690f48
+HNDM-ciencias,term,ciencias,pais,México,281223,1,pais:%22M%C3%A9xico%22,HNDM-ciencias.html,2026-10-06,b525de942de78730bcdc1ecc8d5f343378ab328bb6f44af18531df994e8b7fca
+HNDM-ciencias,term,ciencias,pais,Chile,59,0,pais:%22Chile%22,HNDM-ciencias.html,2026-10-06,b525de942de78730bcdc1ecc8d5f343378ab328bb6f44af18531df994e8b7fca
+HNDM-ciencias,term,ciencias,pais,Colombia,8,0,pais:%22Colombia%22,HNDM-ciencias.html,2026-10-06,b525de942de78730bcdc1ecc8d5f343378ab328bb6f44af18531df994e8b7fca
+HNDM-ciencias,term,ciencias,pais,Cuba,12,0,pais:%22Cuba%22,HNDM-ciencias.html,2026-10-06,b525de942de78730bcdc1ecc8d5f343378ab328bb6f44af18531df994e8b7fca
+HNDM-ciencias,term,ciencias,pais,España,192,0,pais:%22Espa%C3%B1a%22,HNDM-ciencias.html,2026-10-06,b525de942de78730bcdc1ecc8d5f343378ab328bb6f44af18531df994e8b7fca
+HNDM-ciencias,term,ciencias,pais,Estados Unidos,2,0,pais:%22Estados+Unidos%22,HNDM-ciencias.html,2026-10-06,b525de942de78730bcdc1ecc8d5f343378ab328bb6f44af18531df994e8b7fca
+HNDM-ciencias,term,ciencias,pais,Inglaterra,186,0,pais:%22Inglaterra%22,HNDM-ciencias.html,2026-10-06,b525de942de78730bcdc1ecc8d5f343378ab328bb6f44af18531df994e8b7fca
+HNDM-cientific,term,cientific*,pais,México,373504,1,pais:%22M%C3%A9xico%22,HNDM-cientific.html,2026-10-06,4f0cf06d7defa95c2310590af8496e8674a23b5fec1b0cbfe2efce463ff2db18
+HNDM-cientific,term,cientific*,pais,Chile,49,0,pais:%22Chile%22,HNDM-cientific.html,2026-10-06,4f0cf06d7defa95c2310590af8496e8674a23b5fec1b0cbfe2efce463ff2db18
+HNDM-cientific,term,cientific*,pais,Colombia,6,0,pais:%22Colombia%22,HNDM-cientific.html,2026-10-06,4f0cf06d7defa95c2310590af8496e8674a23b5fec1b0cbfe2efce463ff2db18
+HNDM-cientific,term,cientific*,pais,Cuba,11,0,pais:%22Cuba%22,HNDM-cientific.html,2026-10-06,4f0cf06d7defa95c2310590af8496e8674a23b5fec1b0cbfe2efce463ff2db18
+HNDM-cientific,term,cientific*,pais,España,181,0,pais:%22Espa%C3%B1a%22,HNDM-cientific.html,2026-10-06,4f0cf06d7defa95c2310590af8496e8674a23b5fec1b0cbfe2efce463ff2db18
+HNDM-cientific,term,cientific*,pais,Estados Unidos,21,0,pais:%22Estados+Unidos%22,HNDM-cientific.html,2026-10-06,4f0cf06d7defa95c2310590af8496e8674a23b5fec1b0cbfe2efce463ff2db18
+HNDM-cientific,term,cientific*,pais,Inglaterra,79,0,pais:%22Inglaterra%22,HNDM-cientific.html,2026-10-06,4f0cf06d7defa95c2310590af8496e8674a23b5fec1b0cbfe2efce463ff2db18
+HNDM-moderna,term,moderna,pais,México,368563,1,pais:%22M%C3%A9xico%22,HNDM-moderna.html,2026-10-06,505c4b81cddbc83e4046279f0d8f1bfd41b78d7668a66182e780fed5d7b3aef5
+HNDM-moderna,term,moderna,pais,Chile,38,0,pais:%22Chile%22,HNDM-moderna.html,2026-10-06,505c4b81cddbc83e4046279f0d8f1bfd41b78d7668a66182e780fed5d7b3aef5
+HNDM-moderna,term,moderna,pais,Colombia,1,0,pais:%22Colombia%22,HNDM-moderna.html,2026-10-06,505c4b81cddbc83e4046279f0d8f1bfd41b78d7668a66182e780fed5d7b3aef5
+HNDM-moderna,term,moderna,pais,Cuba,6,0,pais:%22Cuba%22,HNDM-moderna.html,2026-10-06,505c4b81cddbc83e4046279f0d8f1bfd41b78d7668a66182e780fed5d7b3aef5
+HNDM-moderna,term,moderna,pais,España,188,0,pais:%22Espa%C3%B1a%22,HNDM-moderna.html,2026-10-06,505c4b81cddbc83e4046279f0d8f1bfd41b78d7668a66182e780fed5d7b3aef5
+HNDM-moderna,term,moderna,pais,Estados Unidos,31,0,pais:%22Estados+Unidos%22,HNDM-moderna.html,2026-10-06,505c4b81cddbc83e4046279f0d8f1bfd41b78d7668a66182e780fed5d7b3aef5
+HNDM-moderna,term,moderna,pais,Inglaterra,61,0,pais:%22Inglaterra%22,HNDM-moderna.html,2026-10-06,505c4b81cddbc83e4046279f0d8f1bfd41b78d7668a66182e780fed5d7b3aef5
+HNDM-modernas,term,modernas,pais,México,112741,1,pais:%22M%C3%A9xico%22,HNDM-modernas.html,2026-10-06,91b979f098dc462214eb064b1603e9ab6097ee322eb4b12da74e2f1aa4ab25d3
+HNDM-modernas,term,modernas,pais,Chile,16,0,pais:%22Chile%22,HNDM-modernas.html,2026-10-06,91b979f098dc462214eb064b1603e9ab6097ee322eb4b12da74e2f1aa4ab25d3
+HNDM-modernas,term,modernas,pais,Colombia,9,0,pais:%22Colombia%22,HNDM-modernas.html,2026-10-06,91b979f098dc462214eb064b1603e9ab6097ee322eb4b12da74e2f1aa4ab25d3
+HNDM-modernas,term,modernas,pais,Cuba,3,0,pais:%22Cuba%22,HNDM-modernas.html,2026-10-06,91b979f098dc462214eb064b1603e9ab6097ee322eb4b12da74e2f1aa4ab25d3
+HNDM-modernas,term,modernas,pais,España,65,0,pais:%22Espa%C3%B1a%22,HNDM-modernas.html,2026-10-06,91b979f098dc462214eb064b1603e9ab6097ee322eb4b12da74e2f1aa4ab25d3
+HNDM-modernas,term,modernas,pais,Estados Unidos,4,0,pais:%22Estados+Unidos%22,HNDM-modernas.html,2026-10-06,91b979f098dc462214eb064b1603e9ab6097ee322eb4b12da74e2f1aa4ab25d3
+HNDM-modernas,term,modernas,pais,Inglaterra,11,0,pais:%22Inglaterra%22,HNDM-modernas.html,2026-10-06,91b979f098dc462214eb064b1603e9ab6097ee322eb4b12da74e2f1aa4ab25d3
+HNDM-modernidad,term,modernidad,pais,México,16639,1,pais:%22M%C3%A9xico%22,HNDM-modernidad.html,2026-10-06,345c83d74cf1a69ac427c142855cfce4e0c2803447f91d5d353fb42457917f41
+HNDM-modernidad,term,modernidad,pais,Chile,1,0,pais:%22Chile%22,HNDM-modernidad.html,2026-10-06,345c83d74cf1a69ac427c142855cfce4e0c2803447f91d5d353fb42457917f41
+HNDM-modernidad,term,modernidad,pais,España,1,0,pais:%22Espa%C3%B1a%22,HNDM-modernidad.html,2026-10-06,345c83d74cf1a69ac427c142855cfce4e0c2803447f91d5d353fb42457917f41
+HNDM-modernidades,term,modernidades,pais,México,115,1,pais:%22M%C3%A9xico%22,HNDM-modernidades.html,2026-10-06,cc38c345a8dbb4a213ed7dd1b09f2d9aeea4ef263f48536afb78b54c524da399
+HNDM-moderno,term,moderno,pais,México,276299,1,pais:%22M%C3%A9xico%22,HNDM-moderno.html,2026-10-06,7b2276dd5afd12c414732eccb66adcca993df2ddc9e46f073a6c2a75ac1c2d2a
+HNDM-moderno,term,moderno,pais,Chile,29,0,pais:%22Chile%22,HNDM-moderno.html,2026-10-06,7b2276dd5afd12c414732eccb66adcca993df2ddc9e46f073a6c2a75ac1c2d2a
+HNDM-moderno,term,moderno,pais,Colombia,4,0,pais:%22Colombia%22,HNDM-moderno.html,2026-10-06,7b2276dd5afd12c414732eccb66adcca993df2ddc9e46f073a6c2a75ac1c2d2a
+HNDM-moderno,term,moderno,pais,Cuba,12,0,pais:%22Cuba%22,HNDM-moderno.html,2026-10-06,7b2276dd5afd12c414732eccb66adcca993df2ddc9e46f073a6c2a75ac1c2d2a
+HNDM-moderno,term,moderno,pais,España,110,0,pais:%22Espa%C3%B1a%22,HNDM-moderno.html,2026-10-06,7b2276dd5afd12c414732eccb66adcca993df2ddc9e46f073a6c2a75ac1c2d2a
+HNDM-moderno,term,moderno,pais,Estados Unidos,40,0,pais:%22Estados+Unidos%22,HNDM-moderno.html,2026-10-06,7b2276dd5afd12c414732eccb66adcca993df2ddc9e46f073a6c2a75ac1c2d2a
+HNDM-moderno,term,moderno,pais,Inglaterra,28,0,pais:%22Inglaterra%22,HNDM-moderno.html,2026-10-06,7b2276dd5afd12c414732eccb66adcca993df2ddc9e46f073a6c2a75ac1c2d2a
+HNDM-modernos,term,modernos,pais,México,187571,1,pais:%22M%C3%A9xico%22,HNDM-modernos.html,2026-10-06,088e89b125554920d3f3d5c673e0c97a04bf36bb6bf8813c5a4de5825d90718d
+HNDM-modernos,term,modernos,pais,Chile,23,0,pais:%22Chile%22,HNDM-modernos.html,2026-10-06,088e89b125554920d3f3d5c673e0c97a04bf36bb6bf8813c5a4de5825d90718d
+HNDM-modernos,term,modernos,pais,Colombia,2,0,pais:%22Colombia%22,HNDM-modernos.html,2026-10-06,088e89b125554920d3f3d5c673e0c97a04bf36bb6bf8813c5a4de5825d90718d
+HNDM-modernos,term,modernos,pais,Cuba,9,0,pais:%22Cuba%22,HNDM-modernos.html,2026-10-06,088e89b125554920d3f3d5c673e0c97a04bf36bb6bf8813c5a4de5825d90718d
+HNDM-modernos,term,modernos,pais,España,170,0,pais:%22Espa%C3%B1a%22,HNDM-modernos.html,2026-10-06,088e89b125554920d3f3d5c673e0c97a04bf36bb6bf8813c5a4de5825d90718d
+HNDM-modernos,term,modernos,pais,Estados Unidos,18,0,pais:%22Estados+Unidos%22,HNDM-modernos.html,2026-10-06,088e89b125554920d3f3d5c673e0c97a04bf36bb6bf8813c5a4de5825d90718d
+HNDM-modernos,term,modernos,pais,Inglaterra,39,0,pais:%22Inglaterra%22,HNDM-modernos.html,2026-10-06,088e89b125554920d3f3d5c673e0c97a04bf36bb6bf8813c5a4de5825d90718d
+HNDM-progreso,term,progreso,pais,México,552784,1,pais:%22M%C3%A9xico%22,HNDM-progreso.html,2026-10-06,f422d713d6a5d062683c35fabc6e0f35ec5fd2b8fa2446a44f6fae2c8865215d
+HNDM-progreso,term,progreso,pais,Chile,56,0,pais:%22Chile%22,HNDM-progreso.html,2026-10-06,f422d713d6a5d062683c35fabc6e0f35ec5fd2b8fa2446a44f6fae2c8865215d
+HNDM-progreso,term,progreso,pais,Colombia,13,0,pais:%22Colombia%22,HNDM-progreso.html,2026-10-06,f422d713d6a5d062683c35fabc6e0f35ec5fd2b8fa2446a44f6fae2c8865215d
+HNDM-progreso,term,progreso,pais,Cuba,82,0,pais:%22Cuba%22,HNDM-progreso.html,2026-10-06,f422d713d6a5d062683c35fabc6e0f35ec5fd2b8fa2446a44f6fae2c8865215d
+HNDM-progreso,term,progreso,pais,España,125,0,pais:%22Espa%C3%B1a%22,HNDM-progreso.html,2026-10-06,f422d713d6a5d062683c35fabc6e0f35ec5fd2b8fa2446a44f6fae2c8865215d
+HNDM-progreso,term,progreso,pais,Estados Unidos,2,0,pais:%22Estados+Unidos%22,HNDM-progreso.html,2026-10-06,f422d713d6a5d062683c35fabc6e0f35ec5fd2b8fa2446a44f6fae2c8865215d
+HNDM-progreso,term,progreso,pais,Inglaterra,99,0,pais:%22Inglaterra%22,HNDM-progreso.html,2026-10-06,f422d713d6a5d062683c35fabc6e0f35ec5fd2b8fa2446a44f6fae2c8865215d
+HNDM-progresos,term,progresos,pais,México,84257,1,pais:%22M%C3%A9xico%22,HNDM-progresos.html,2026-10-06,cc439ba949cf7170b4e4f88330ed100059c254af81d19b33cb9039944fb07fc7
+HNDM-progresos,term,progresos,pais,Chile,17,0,pais:%22Chile%22,HNDM-progresos.html,2026-10-06,cc439ba949cf7170b4e4f88330ed100059c254af81d19b33cb9039944fb07fc7
+HNDM-progresos,term,progresos,pais,Cuba,13,0,pais:%22Cuba%22,HNDM-progresos.html,2026-10-06,cc439ba949cf7170b4e4f88330ed100059c254af81d19b33cb9039944fb07fc7
+HNDM-progresos,term,progresos,pais,España,145,0,pais:%22Espa%C3%B1a%22,HNDM-progresos.html,2026-10-06,cc439ba949cf7170b4e4f88330ed100059c254af81d19b33cb9039944fb07fc7
+HNDM-progresos,term,progresos,pais,Estados Unidos,4,0,pais:%22Estados+Unidos%22,HNDM-progresos.html,2026-10-06,cc439ba949cf7170b4e4f88330ed100059c254af81d19b33cb9039944fb07fc7
+HNDM-progresos,term,progresos,pais,Inglaterra,52,0,pais:%22Inglaterra%22,HNDM-progresos.html,2026-10-06,cc439ba949cf7170b4e4f88330ed100059c254af81d19b33cb9039944fb07fc7
+HNDM-razon,term,razon,pais,México,798376,1,pais:%22M%C3%A9xico%22,HNDM-razon.html,2026-10-06,f6917701603c61210a917e27ea483c2e547fb5ee227f4e377f9ae781945ef4a9
+HNDM-razon,term,razon,pais,Chile,130,0,pais:%22Chile%22,HNDM-razon.html,2026-10-06,f6917701603c61210a917e27ea483c2e547fb5ee227f4e377f9ae781945ef4a9
+HNDM-razon,term,razon,pais,Colombia,11,0,pais:%22Colombia%22,HNDM-razon.html,2026-10-06,f6917701603c61210a917e27ea483c2e547fb5ee227f4e377f9ae781945ef4a9
+HNDM-razon,term,razon,pais,Cuba,125,0,pais:%22Cuba%22,HNDM-razon.html,2026-10-06,f6917701603c61210a917e27ea483c2e547fb5ee227f4e377f9ae781945ef4a9
+HNDM-razon,term,razon,pais,España,699,0,pais:%22Espa%C3%B1a%22,HNDM-razon.html,2026-10-06,f6917701603c61210a917e27ea483c2e547fb5ee227f4e377f9ae781945ef4a9
+HNDM-razon,term,razon,pais,Estados Unidos,51,0,pais:%22Estados+Unidos%22,HNDM-razon.html,2026-10-06,f6917701603c61210a917e27ea483c2e547fb5ee227f4e377f9ae781945ef4a9
+HNDM-razon,term,razon,pais,Inglaterra,282,0,pais:%22Inglaterra%22,HNDM-razon.html,2026-10-06,f6917701603c61210a917e27ea483c2e547fb5ee227f4e377f9ae781945ef4a9
+HNDM-razones,term,razones,pais,México,323626,1,pais:%22M%C3%A9xico%22,HNDM-razones.html,2026-10-06,ff13391fde24dc0b544237d6793fc50f0cddd681cd643524fca92f95bb08cc0d
+HNDM-razones,term,razones,pais,Chile,53,0,pais:%22Chile%22,HNDM-razones.html,2026-10-06,ff13391fde24dc0b544237d6793fc50f0cddd681cd643524fca92f95bb08cc0d
+HNDM-razones,term,razones,pais,Colombia,1,0,pais:%22Colombia%22,HNDM-razones.html,2026-10-06,ff13391fde24dc0b544237d6793fc50f0cddd681cd643524fca92f95bb08cc0d
+HNDM-razones,term,razones,pais,Cuba,22,0,pais:%22Cuba%22,HNDM-razones.html,2026-10-06,ff13391fde24dc0b544237d6793fc50f0cddd681cd643524fca92f95bb08cc0d
+HNDM-razones,term,razones,pais,España,180,0,pais:%22Espa%C3%B1a%22,HNDM-razones.html,2026-10-06,ff13391fde24dc0b544237d6793fc50f0cddd681cd643524fca92f95bb08cc0d
+HNDM-razones,term,razones,pais,Estados Unidos,10,0,pais:%22Estados+Unidos%22,HNDM-razones.html,2026-10-06,ff13391fde24dc0b544237d6793fc50f0cddd681cd643524fca92f95bb08cc0d
+HNDM-razones,term,razones,pais,Inglaterra,53,0,pais:%22Inglaterra%22,HNDM-razones.html,2026-10-06,ff13391fde24dc0b544237d6793fc50f0cddd681cd643524fca92f95bb08cc0d
