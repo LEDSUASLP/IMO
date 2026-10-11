@@ -1,0 +1,76 @@
+{
+  "programa": "reconstruir_imo_v3.py",
+  "version": "3.0.0",
+  "unidad_ocurrencias": "token léxico: una fila por match regex",
+  "unidad_contextos": "una fila por término y párrafo",
+  "denominador": "palabras alfabéticas de todos los capítulos asignados al periodo",
+  "periodos": [
+    {
+      "inicio": 1865,
+      "fin": 1879,
+      "label": "1865-1879"
+    },
+    {
+      "inicio": 1880,
+      "fin": 1895,
+      "label": "1880-1895"
+    },
+    {
+      "inicio": 1896,
+      "fin": 1905,
+      "label": "1896-1905"
+    },
+    {
+      "inicio": 1906,
+      "fin": 1921,
+      "label": "1906-1921"
+    }
+  ],
+  "familias_lexicas": {
+    "razón": "\\b(?:raz[oó]n|razones)\\b",
+    "ciencia": "\\bciencias?\\b",
+    "progreso": "\\bprogresos?\\b",
+    "moderno": "\\bmodern(?:o|a|os|as)\\b",
+    "modernidad": "\\bmodernidad(?:es)?\\b"
+  },
+  "normalizacion": "recomposición de palabras partidas por guion de fin de línea; unión de saltos simples dentro de párrafos",
+  "fecha": "heredada de v2: solo infiere automáticamente fechas ancladas a encabezado/cierre documental; menciones históricas quedan como sugerencias para validación humana",
+  "corpus_rangos_inclusivos": {
+    "1": [
+      2,
+      21
+    ],
+    "2": [
+      2,
+      23
+    ],
+    "3": [
+      2,
+      37
+    ],
+    "4": [
+      1,
+      49
+    ],
+    "5": [
+      1,
+      25
+    ],
+    "6": [
+      1,
+      26
+    ],
+    "7": [
+      2,
+      32
+    ],
+    "8": [
+      3,
+      20
+    ]
+  },
+  "corpus_regla": "solo cuerpo principal; prefacios/prologos/dedicatorias/advertencias, notas y documentos, apendices y epilogos quedan fuera segun auditoria manual de indices",
+  "n_documentos": 227,
+  "n_ocurrencias": 778,
+  "n_contextos": 697
+}
